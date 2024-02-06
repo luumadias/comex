@@ -42,7 +42,6 @@ public class Sprint7 {
         endereco.estado = "São Paulo";
         endereco.rua = "Rua Joaquim Norberto";
         endereco.numero = 507;
-        System.out.println(endereco.toString());
 
         Cliente cliente = new Cliente();
         cliente.nome = "Luma Dias";

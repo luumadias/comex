@@ -41,11 +41,6 @@ public class Produto {
     public Produto(String nome) {
         this.nome = nome;
     }
-
-    @Override
-    public String toString() {
-        return ">> Dados do produto \n" +
-                "::Nome: " + nome + "\n" +
-                ":: Descrição: " + descricao;
-    }
 }
+
+  
