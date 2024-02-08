@@ -1,8 +1,9 @@
+package br.com.alura.comex.sprint8;
+
 import br.com.alura.comex.Cliente;
 import br.com.alura.comex.Endereco;
 import br.com.alura.comex.Produto;
 import br.com.alura.comex.sprint8.Pedido;
-
 public class TestaPedido {
   public static void main(String[] args) {
 
