@@ -35,7 +35,7 @@ public class Sprint7 {
 
         System.out.println(filme.toString());
 
-        Endereco endereco = new Endereco();
+        Endereco endereco = new Endereco("Jardim São Paulo","São Paulo", "Apartamento 01", "São Paulo", "Rua Joaquim Norberto", 507);
         endereco.bairro = "Jardim São Paulo";
         endereco.cidade = "São Paulo";
         endereco.complemento = "Apartamento 01";
