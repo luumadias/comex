@@ -1,4 +1,4 @@
-package br.com.alura.comex.sprint8;
+package br.com.alura.comex.Sprint8;
 
 import br.com.alura.comex.Cliente;
 
@@ -49,7 +49,7 @@ public class Pedido {
    public String toString (){
       return ">> Dados dos Pedidos \n" +
       "Nome do Cliente: " + cliente + " \n" +
-      "Id do pedido: " + id + " \n " +
+      "Id do pedido: " + id + " \n" +
       "Preço: " + preco + "\n" +
       "Quantidade: " + quantidade + "\n";
 
